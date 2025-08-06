@@ -1,8 +1,8 @@
-#Hi there, I'm Ranjitha B S! ✨
+**Hi there, I'm Ranjitha B S!** ✨
 
-#🎓 Computer Science Engineering Graduate
+**🎓 Computer Science Engineering Graduate
 💻 Aspiring Full-Stack Web Developer | 🎨 Frontend Enthusiast 
-
+**
 🔹 About Me
 💡 Passionate about building responsive, user-friendly web applications
 💻 Focused on Full-Stack Development using MERN stack
@@ -33,10 +33,9 @@
 - **Others:** Git, GitHub, Agile methodologies  
 
 📌 Featured Projects
+
 💬 E-commerce Chatbot – A smart shopping assistant using MERN stack + Botpress
-
 🏥 Hospital Management System – AI-integrated system for patient and staff management
-
 🏗️ Microservices Infra Management – Designed and deployed with Jenkins & Docker
 
 
